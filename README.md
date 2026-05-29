@@ -59,17 +59,7 @@ A visually appealing splash screen with a dark blue background, a glowing green 
 *   **Firebase:** Backend-as-a-Service (BaaS) providing authentication, real-time database, and other cloud services.
 *   **A* AI Algorithm:** For efficient and smart pathfinding on the campus map.
 
-## Installation
 
-(Instructions for setting up the development environment and running the app will go here.)
-
-## Contributing
-
-(Guidelines for contributions will go here.)
-
-## License
-
-(License information will go here.)
 
 ## Contact
 
