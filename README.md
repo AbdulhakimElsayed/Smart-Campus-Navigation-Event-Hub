@@ -73,4 +73,4 @@ A visually appealing splash screen with a dark blue background, a glowing green 
 
 ## Contact
 
-For any inquiries, please contact [Your Name/Email/GitHub Profile].
+For any inquiries, please contact [Abdulhakim Elsayed /abdulhakimelsayed5@gmail.com /AbdulhakimElsayed].
